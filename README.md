@@ -11,8 +11,4 @@ WinTile also supports:
 - Mouse preview and snapping for placing windows
 - Toggling of "maximize" mode, which adds/removes GNOME animations
 
-WinTile can be found on the GNOME Extension site:
-
-https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/
-
 <img src='demo.gif'>
